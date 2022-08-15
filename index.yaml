@@ -22,4 +22,25 @@ entries:
     urls:
     - https://github.com/jicunningham/lacework-agent/releases/download/lacework-agent-5.9.0/lacework-agent-5.9.0.tgz
     version: 5.9.0
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2022-08-15T22:25:27.111975374Z"
+    description: Lacework Agent
+    digest: ae807ca8fd5bacb43b3c94405487141835e1dfada57b17180cea91495d87d6e1
+    home: https://www.lacework.com
+    icon: https://www.lacework.com/wp-content/uploads/2019/07/Lacework_Logo_color_2019.svg
+    keywords:
+    - monitoring
+    - security
+    - run-time
+    - metric
+    - troubleshooting
+    kubeVersion: '> 1.9.0-0'
+    maintainers:
+    - email: info@lacework.net
+      name: lacework-support
+    name: lacework-agent
+    urls:
+    - https://github.com/jicunningham/lacework-agent/releases/download/lacework-agent-5.8.0/lacework-agent-5.8.0.tgz
+    version: 5.8.0
 generated: "2022-08-15T21:44:43.270454534Z"
